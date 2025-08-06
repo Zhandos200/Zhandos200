@@ -1,9 +1,13 @@
 <!--Banner-->
-![Zhandos200 Banner Image](https://github.com/Zhandos200/Zhandos200/blob/main/banner.png)
+<p align="center">
+  <img src="https://github.com/Zhandos200/Zhandos200/blob/main/me.jpg" 
+       alt="Zhandos200 Banner Image"
+       width="200">
+</p>
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
 </div>
 
 <!--Header Name-->
@@ -23,10 +27,6 @@
 <!--End Intro-->
 
 <!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Zhandos200" style="padding-right:20px;" />
-</p>
-
 ---
 <br />
 
@@ -60,7 +60,7 @@
 </a>
 
 <a href="https://t.me/zh_xt" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="zh_xt Telegram " style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="zh_xt Telegram" style="margin-bottom: 5px;" />
 </a>
 </div>
 
