@@ -1,9 +1,4 @@
-<!--Banner-->
-<p align="center">
-  <img src="https://github.com/Zhandos200/Zhandos200/blob/main/me-modified.png" 
-       alt="Zhandos200 Banner Image"
-       width="200">
-</p>
+
 
 <!--Night Owl image-->
 <div>
